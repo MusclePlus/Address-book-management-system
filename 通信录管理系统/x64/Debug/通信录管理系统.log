@@ -1,0 +1,4 @@
+﻿  通讯录管理系统.cpp
+d:\file_code\my_code\code_vs2017\通信录管理系统\通信录管理系统\通讯录管理系统.cpp(74): warning C4715: “add_phone”: 不是所有的控件路径都返回值
+d:\file_code\my_code\code_vs2017\通信录管理系统\通信录管理系统\通讯录管理系统.cpp(244): warning C4715: “dispose”: 不是所有的控件路径都返回值
+  通信录管理系统.vcxproj -> D:\File_code\My_code\Code_vs2017\通信录管理系统\x64\Debug\通信录管理系统.exe
